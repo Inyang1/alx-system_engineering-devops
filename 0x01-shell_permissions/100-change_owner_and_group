@@ -1,2 +1,2 @@
 #!/bin/bash
-chomn vincent:staff *
+chomn -hR vincent staff
